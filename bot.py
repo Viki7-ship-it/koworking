@@ -17,8 +17,8 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # ──────────────── КОНФИГУРАЦИЯ ────────────────
-TOKEN = "7285577320:AAEwLbMZ2XP_nOm9_RgJJwsL_8J3DVr1yms"          # токен от @BotFather
-ADMIN_IDS = [708955139]            # Telegram ID администраторов
+TOKEN = ""          # токен от @BotFather
+ADMIN_IDS = []            # Telegram ID администраторов
 DB_PATH = "coworking15.db"
 COWORKING_NAME = "Коворкинг общежития №15 РУДН"
 TOTAL_SEATS = 24
